@@ -1,11 +1,11 @@
 import React from "react";
 import "./style.css";
-import Card from "../Card"
+import Card from "."
 import Wrapper from "../Wrapper/index"
 
 function PortfolioCard(props) {
     return (
-        <Wrapper>
+       
     <div className="card">
       <div className="img-container">
         <img alt={props.name} src={props.image} />
@@ -13,10 +13,10 @@ function PortfolioCard(props) {
       <div className="content">
         <ul>
           <li>
-            <strong>Name:</strong> {props.name}
+            <strong><a href={props.link}>{props.name}</a></strong> 
           </li>
           <li>
-            <strong>Cost:</strong> {props.cost}
+            <strong></strong>
           </li>
           <li>
             <strong>Description:</strong> {props.description}
@@ -24,7 +24,7 @@ function PortfolioCard(props) {
         </ul>
       </div>
     </div>
-    </Wrapper>
+
 
     )
     };

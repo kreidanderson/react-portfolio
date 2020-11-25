@@ -1,7 +1,8 @@
 import React from "react";
 import "./style.css";
 
-const Home = () => (
+const Home = () => {
+  return (
   <div>
     <div className="container">
    <div className="fade-in">
@@ -9,7 +10,7 @@ const Home = () => (
    </div>
     </div>
     
-  </div>
-);
+  </div> )
+};
 
 export default Home;

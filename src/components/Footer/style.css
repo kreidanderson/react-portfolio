@@ -3,6 +3,13 @@
     text-align: center;
     background-color: tomato;
     color: white;
+
+  }
+
+  .linklist{
+    width: 300px;
+    margin: auto;
+    width: 50%;
     
   }
 

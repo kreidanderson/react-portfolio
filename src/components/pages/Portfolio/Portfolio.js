@@ -2,6 +2,7 @@ import React, {Component} from "react";
 import "./style.css";
 import PortfolioCard from "../../Card/index"
 import portfolio from "./portfolio.json"
+import Wrapper from "../../Wrapper/index"
 
 
 class Portfolio extends Component {
@@ -12,19 +13,20 @@ class Portfolio extends Component {
 
   render() {
 return (
-    <div>
+  <Wrapper>
+    
       {portfolio.map(hobby=> (
         <PortfolioCard
           id={hobby.id}
           key={hobby.id}
           name={hobby.name}
           image={hobby.image}
-          cost={hobby.cost}
+          link={hobby.link}
           description={hobby.description}
         />
       ))}
-    </div>
-
+   
+    </Wrapper>
 ) }
       }
     

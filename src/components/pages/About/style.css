@@ -1,3 +1,29 @@
-.container{
-    padding: 300px
+.container {
+  padding: 100px;
 }
+
+.headshot img{
+    margin: 30px
+}
+
+.about {
+    width: 300px;
+    margin: auto;
+    width: 50%;
+
+    padding: 10px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+h6{
+    padding: 30px, 0px
+}
+
+.funfact {
+  width: 300px;
+  margin: auto;
+  width: 50%;
+  margin: 1px
+ 
+}
+

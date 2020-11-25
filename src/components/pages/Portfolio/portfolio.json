@@ -1,59 +1,80 @@
 [
     {
       "id": 1,
-      "name": "Emp Database",
-      "image": "https://media1.popsugar-assets.com/files/thumbor/mXvrq8VHGNS__aMBamgIU266STg/0x0:3024x3024/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/07/15/928/n/1922441/a2e7081e5f0f7247895e56.22642708_/i/watercolor-painting-tips-beginners.jpg",
-      "cost": "$20",
-      "description": "Watercolor happens to be one of the less expensive art forms"
+      "name": "Devour The Burger",
+      "image": "https://i.ibb.co/sH5qDzs/burger.png",
+      "link": "https://rocky-sands-44438.herokuapp.com/",
+      "description": "Using a database, this app allows the user to enter a burger, 'eat it' and then it's added to a list of eaten burgers."
     },
     {
       "id": 2,
-      "name": "Pottery",
-      "image": "https://northernvirginiamag.com/wp-content/uploads/2020/01/woman-spinning-on-a-pottery-wheel.jpg",
-      "cost": "$50",
-      "description": "This is a hands on activity and requires a lot of supplies and at least a few hours."
+      "name": "Campground Mapper",
+      "image": "https://i.ibb.co/BBXSNrK/98838345-c4344e80-2409-11eb-954d-727fa38fa669.png",
+      "link": "https://campground-mapper.herokuapp.com/",
+      "description": "Wanderlust America provides travelers with a curated listing of the top 10 campsites in each of the 50 states."
     },
     {
-      "id": 3,
-      "name": "Poetry",
-      "image": "https://www.stylist.co.uk/images/app/uploads/2019/04/21103217/poetry-quotes-1680x1120.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress",
-      "cost": "Free",
-      "description": "This is an art where only a pen and paper are needed."
+      "id": 4,
+      "name": "Daily Planner",
+      "image": "https://i.ibb.co/1vwBFdH/scheduler.png",
+      "link": "https://kreidanderson.github.io/daily_scheduler/",
+      "description": "A daily workday scheduler for the busy professional."
     },
     {
-        "id": 3,
-        "name": "Poetry",
+        "id": 5,
+        "name": "Employee Management System",
+        "image": "https://i.ibb.co/kMKr0xz/Screen-Shot-2020-11-24-at-9-21-08-PM.png",
+        "link": "Free",
+        "description": "The user updates employee information, roles, and departments all by following the steps in the terminal."
+      },
+      {
+        "id": 6,
+        "name": "Halloween Movie Calendar",
+        "image": "https://i.ibb.co/gFrYcnx/Screen-Calendar.png",
+        "link": "https://kreidanderson.github.io/halloweenMovie-project1/",
+        "description": "A Halloween calendar that suggests a movie to watch every day for the month of October."
+      },
+      {
+        "id": 7,
+        "name": "Note Taker",
+        "image": "https://i.ibb.co/TbRsWnD/groceries.png",
+        "link": "https://rocky-inlet-10843.herokuapp.com/",
+        "description": "A simple note taking page that takes the input of a user and allows them to come back later and view their notes."
+      },
+      {
+        "id": 8,
+        "name": "Password Generator",
+        "image": "https://i.ibb.co/YpVnV2k/passwordgen.png",
+        "link": "https://kreidanderson.github.io/pw_gen/",
+        "description": "This simple app allows the user to quickly generate a password according to their preference."
+      },
+      {
+        "id": 9,
+        "name": "Quiz",
         "image": "https://www.stylist.co.uk/images/app/uploads/2019/04/21103217/poetry-quotes-1680x1120.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress",
-        "cost": "Free",
+        "link": "https://kreidanderson.github.io/quiz/",
         "description": "This is an art where only a pen and paper are needed."
       },
       {
-        "id": 3,
-        "name": "Poetry",
-        "image": "https://www.stylist.co.uk/images/app/uploads/2019/04/21103217/poetry-quotes-1680x1120.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress",
-        "cost": "Free",
-        "description": "This is an art where only a pen and paper are needed."
+        "id": 10,
+        "name": "Readme Generator",
+        "image": "https://i.ibb.co/d7MNbHb/Screen-Shot-2020-11-24-at-9-41-58-PM.png",
+        "link": "https://github.com/kreidanderson/node_readme",
+        "description": "Using node, this app quickly creates a readme for your coding project needs."
       },
       {
-        "id": 3,
-        "name": "Poetry",
-        "image": "https://www.stylist.co.uk/images/app/uploads/2019/04/21103217/poetry-quotes-1680x1120.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress",
-        "cost": "Free",
-        "description": "This is an art where only a pen and paper are needed."
+        "id": 11,
+        "name": "Team Generator",
+        "image": "https://i.ibb.co/wSK5dGy/team-Genexample.png",
+        "link": "Free",
+        "description": "This app also uses node so the user can add all of their team members to a webpage."
       },
       {
-        "id": 3,
-        "name": "Poetry",
-        "image": "https://www.stylist.co.uk/images/app/uploads/2019/04/21103217/poetry-quotes-1680x1120.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress",
-        "cost": "Free",
-        "description": "This is an art where only a pen and paper are needed."
-      },
-      {
-        "id": 3,
-        "name": "Poetry",
-        "image": "https://www.stylist.co.uk/images/app/uploads/2019/04/21103217/poetry-quotes-1680x1120.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress",
-        "cost": "Free",
-        "description": "This is an art where only a pen and paper are needed."
+        "id": 12,
+        "name": "Weather Dashboard",
+        "image": "https://i.ibb.co/km8vk6b/weather-app.png",
+        "link": "https://kreidanderson.github.io/weather_db/",
+        "description": "This app was created to populate any weather forecast a user wishes to see."
       }
 
   ]
