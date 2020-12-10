@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import resume from "./KRA.Resume.pdf"
 
 function Footer(props) {
   return (
@@ -9,7 +10,7 @@ function Footer(props) {
           <a href="https://github.com/kreidanderson">Github</a>
         </li>
         <li className="list-unstyled">
-          <a href="#!">Resume</a>
+          <a src={resume} href="resume">Resume</a>
         </li>
         <li className="list-unstyled">
           <a href="https://www.linkedin.com/in/katie-reid-anderson-3ba400a8/">

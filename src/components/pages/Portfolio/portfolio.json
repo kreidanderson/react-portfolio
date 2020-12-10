@@ -1,11 +1,11 @@
 [
-    {
-      "id": 1,
-      "name": "Devour The Burger",
-      "image": "https://i.ibb.co/sH5qDzs/burger.png",
-      "link": "https://rocky-sands-44438.herokuapp.com/",
-      "description": "Using a database, this app allows the user to enter a burger, 'eat it' and then it's added to a list of eaten burgers."
-    },
+  {
+    "id": 1,
+    "name": "Halloween Movie Calendar",
+    "image": "https://i.ibb.co/gFrYcnx/Screen-Calendar.png",
+    "link": "https://kreidanderson.github.io/halloweenMovie-project1/",
+    "description": "A Halloween calendar that suggests a movie to watch every day for the month of October."
+  },
     {
       "id": 2,
       "name": "Campground Mapper",
@@ -15,10 +15,10 @@
     },
     {
       "id": 4,
-      "name": "Daily Planner",
-      "image": "https://i.ibb.co/1vwBFdH/scheduler.png",
-      "link": "https://kreidanderson.github.io/daily_scheduler/",
-      "description": "A daily workday scheduler for the busy professional."
+      "name": "Bobby's Hobbies",
+      "image": "https://i.ibb.co/m0X6rmN/bobbyshobbies.png",
+      "link": "https://react-portfolio-kra.herokuapp.com/",
+      "description": "This is an art where only a pen and paper are needed."
     },
     {
         "id": 5,
@@ -29,10 +29,10 @@
       },
       {
         "id": 6,
-        "name": "Halloween Movie Calendar",
-        "image": "https://i.ibb.co/gFrYcnx/Screen-Calendar.png",
-        "link": "https://kreidanderson.github.io/halloweenMovie-project1/",
-        "description": "A Halloween calendar that suggests a movie to watch every day for the month of October."
+        "name": "Devour The Burger",
+        "image": "https://i.ibb.co/sH5qDzs/burger.png",
+        "link": "https://rocky-sands-44438.herokuapp.com/",
+        "description": "Using a database, this app allows the user to enter a burger, 'eat it' and then it's added to a list of eaten burgers."
       },
       {
         "id": 7,
@@ -50,10 +50,10 @@
       },
       {
         "id": 9,
-        "name": "Quiz",
-        "image": "https://www.stylist.co.uk/images/app/uploads/2019/04/21103217/poetry-quotes-1680x1120.jpg?w=1200&h=1&fit=max&auto=format%2Ccompress",
-        "link": "https://kreidanderson.github.io/quiz/",
-        "description": "This is an art where only a pen and paper are needed."
+        "name": "Daily Planner",
+        "image": "https://i.ibb.co/1vwBFdH/scheduler.png",
+        "link": "https://kreidanderson.github.io/daily_scheduler/",
+        "description": "A daily workday scheduler for the busy professional."
       },
       {
         "id": 10,
@@ -75,6 +75,13 @@
         "image": "https://i.ibb.co/km8vk6b/weather-app.png",
         "link": "https://kreidanderson.github.io/weather_db/",
         "description": "This app was created to populate any weather forecast a user wishes to see."
+      },
+      {
+        "id": 13,
+        "name": "Employee Directory",
+        "image": "https://i.ibb.co/SQxvZgQ/emp-directory.png",
+        "link": "https://kra-employee-directory.herokuapp.com/",
+        "description": "Using React, this app allows the user to sort employees by first & last name as well as search for a specific employee."
       }
 
   ]
