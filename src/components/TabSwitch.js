@@ -9,7 +9,7 @@ import App from "../App"
 
 class TabSwitch extends Component {
   state = {
-    currentPage: "Cooking"
+    currentPage: "Portfolio"
   };
 
   handlePageChange = page => {
